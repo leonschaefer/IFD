@@ -8,3 +8,4 @@ Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/Web%201920%
 Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/Web%201920%20%E2%80%93%202.png">Highfid_Prototyp_3.0 Part 2, Version 1</a> </br>
 Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/HiFid_Prototyp_262270.xd">Highfid_Prototyp_3.0, XD-Datei, Version 2</a> </br>
 Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/HiFid_Prototyp_262270.pdf">Highfid_Prototyp_3.0, Screens XD.pdf, Version 2</a> </br>
+Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/Leitfaden_UT.pdf">Highfid_Prototyp_3.0, Leitfaden_UserTesting</a> </br>
