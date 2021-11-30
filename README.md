@@ -6,3 +6,4 @@ Aufgabe 0.1.2 <a href="https://github.com/leonschaefer/IFD/blob/main/Moodboard_1
 Aufgabe 0.2.0 <a href="https://github.com/leonschaefer/IFD/blob/main/Lowfid_Prototyp_2.0.pdf">Lowfid_Prototyp_2.0</a> </br>
 Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/Web%201920%20%E2%80%93%201.png">Highfid_Prototyp_3.0 Part 1, Version 1</a> </br>
 Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/Web%201920%20%E2%80%93%202.png">Highfid_Prototyp_3.0 Part 2, Version 1</a> </br>
+Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/HiFid_Prototyp_262270.xd">Highfid_Prototyp_3.0, Version 2</a> </br>
