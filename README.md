@@ -10,4 +10,4 @@ Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/HiFid_Proto
 Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/HiFid_Prototyp_262270.pdf">Highfid_Prototyp_3.0, Screens XD.pdf, Version 2</a> </br>
 Aufgabe 0.3.0 <a href="https://github.com/leonschaefer/IFD/blob/main/Leitfaden_UT.pdf">Highfid_Prototyp_3.0, Leitfaden_UserTesting</a> </br>
 Finale Prototyp-Datei <a href="https://github.com/leonschaefer/IFD/blob/main/Porsche_Prototyp.xd">Highfid_Prototyp_4.0</a> </br>
-Kurze Doku-Datei mit Link zum finalen Prototypen <a href="https://github.com/leonschaefer/IFD/blob/main/Prototyp_262270.pdf">Kurze Doku-Datei</a> </br>
+Link zum finalen Prototypen finden Sie hier: <a href="https://github.com/leonschaefer/IFD/blob/main/Prototyp_262270.pdf">Kurze Doku-Datei</a> </br>
